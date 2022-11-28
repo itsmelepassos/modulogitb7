@@ -41,7 +41,7 @@ footer {
     justify-content: center;
 
     grid-template-areas:
-        "header logo"
+        "header"
         "section"
         "footer"
     ;
